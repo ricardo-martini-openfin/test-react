@@ -1,6 +1,6 @@
-import logo from './logo.svg';
+
 import './App.css';
-import { fin } from 'openfin-adapter/src/mock';
+
 
 function App() {
 
